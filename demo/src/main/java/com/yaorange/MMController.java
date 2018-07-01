@@ -2,6 +2,7 @@ package com.yaorange;
 
 public class MMController {
    public static void main(String[] args) {
-	 System.out.println("MMµÄÕÕÏà¹¦ÄÜ£¡£¡£¡");
+	 System.out.println("MMï¿½ï¿½ï¿½ï¿½ï¿½à¹¦ï¿½Ü£ï¿½ï¿½ï¿½ï¿½ï¿½");
+       System.out.println("MHW");
    }
 }
